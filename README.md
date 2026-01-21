@@ -1,1 +1,5 @@
-# python_archive 🐍 Kumpulan arsip kode Python hasil belajar dan eksplorasi pribadi. Repo ini berisi berbagai script, mini-project, dan catatan dari perjalanan belajar Python, mulai dari dasar hingga konsep lanjutan.
+# python_archive 🐍 
+
+Kumpulan arsip kode Python hasil belajar dan eksplorasi pribadi. 
+Repo ini berisi berbagai script, mini-project, dan catatan dari perjalanan belajar Python, mulai dari dasar hingga konsep lanjutan. 
+---
