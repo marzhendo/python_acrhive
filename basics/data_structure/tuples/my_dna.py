@@ -1,0 +1,11 @@
+my_dna = ('GCT', 'GCA', 'GCG', 'GCU', 'GAA', 'GAG', 'GAT', 'GAC')
+print(my_dna)
+
+print(my_dna[0])
+print(my_dna[1])
+print(my_dna[2])
+print(my_dna[3])
+print(my_dna[4])
+print(my_dna[5])
+print(my_dna[6])
+print(my_dna[7])
