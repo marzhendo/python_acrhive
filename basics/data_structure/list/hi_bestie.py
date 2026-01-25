@@ -12,3 +12,5 @@ for word in genz_slang:
 
 for i in range(len(genz_slang)):
     print(genz_slang[i])
+
+print(type(genz_slang))
